@@ -1,1 +1,3 @@
 # jhcabs
+
+console.log(hi)
